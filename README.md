@@ -1,4 +1,4 @@
-# Predicting-stock-price-LSTM-RNN-2
+# Predicting-stock-price of Apple-LSTM-RNN
 
 # Analysing AAPL Stock
 
